@@ -1,4 +1,4 @@
- More Automatic Actions
+ More Automatic Actions - plugin for Kanboard
  
 ==================
 
